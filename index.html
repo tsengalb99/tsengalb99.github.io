@@ -62,6 +62,10 @@
     img {
       max-width: 100%;
     }
+    svg {
+      height: auto;
+      max-width: 100%;
+    }
     h1, h2, h3, h4, h5, h6 {
       margin-top: 1.4em;
     }
@@ -154,12 +158,16 @@
     div.columns{display: flex; gap: min(4vw, 1.5em);}
     div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
     ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
       width: 0.8em;
       margin: 0 0.8em 0.2em -1.6em;
       vertical-align: middle;
     }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
   <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
@@ -170,7 +178,7 @@
 <h1 class="title">Albert Tseng</h1>
 </header>
 <style>
-body { max-width: 700px !important; }
+body { max-width: 750px !important; }
 tbody {
     border-top: none;
     border-bottom: none;
@@ -191,13 +199,14 @@ Scholar</a> | albert (at) cs.cornell.edu
 </colgroup>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;">I am a first year PhD student in the
-Computer Science Department at Cornell. Previously, I was a Machine
-Learning Engineer on the Machine Learning Research team at Nuro, where I
-worked on autonomous last-mile delivery vehicles. I recieved my BS in
-Computer Science with a minor in Information and Data Sciences (IDS)
-from Caltech, where I worked on machine learning research in Professor
-Yisong Yue’s group.</td>
+<td style="text-align: left;">I am a second year PhD student in the
+Computer Science Department at Cornell, advised by Chris De Sa. My
+research focuses on geometrically motivated methods toward efficient
+deep models, such as transformers. Previously, I worked on autonomous
+last-mile delivery vehicles as a ML Engineer on the ML Research team at
+Nuro. I recieved my BS in Computer Science with a minor in Information
+and Data Sciences from Caltech, where I also worked on machine learning
+research in Professor Yisong Yue’s group.</td>
 <td style="text-align: right;"><img
 src="resources/picture-circ.jpg" /></td>
 </tr>
@@ -205,6 +214,15 @@ src="resources/picture-circ.jpg" /></td>
 </table>
 <h2 id="research">Research</h2>
 <ul>
+<li>Coneheads: Hierarchy Aware Attention.<br />
+<strong>Albert Tseng</strong>, Tao Yu, Toni J.B. Liu, Christopher De
+Sa.<br />
+<em>Advances in Neural Information Processing Systems (NeurIPS)</em>,
+December 2023.</li>
+<li>Shadow Cones: Unveiling Partial Orders in Hyperbolic Space.<br />
+Tao Yu*, Toni J.B. Liu*, <strong>Albert Tseng</strong>, Christopher De
+Sa.<br />
+</li>
 <li>Automatic Synthesis of Diverse Weak Supervision Sources for Behavior
 Analysis.<br />
 <strong>Albert Tseng</strong>, Jennifer J. Sun, Yisong Yue.<br />
@@ -217,7 +235,8 @@ Matthew Hausknecht.<br />
 <em>International Conference on Machine Learning (ICML)</em>, July
 2020.</li>
 </ul>
+<p>* equal contribution</p>
 <p><br />
-Last updated October 2022.</p>
+Last updated September 2023.</p>
 </body>
 </html>
