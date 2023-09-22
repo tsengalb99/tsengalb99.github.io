@@ -20,7 +20,7 @@ header { height:0px;}
 
 | | |
 |:-------|--:|
-| I am a second year PhD student in the Computer Science Department at Cornell, advised by Chris De Sa. My research focuses on geometrically motivated methods toward efficient deep models, such as transformers. Previously, I worked on autonomous last-mile delivery vehicles as a ML Engineer on the ML Research team at Nuro. I recieved my BS in Computer Science with a minor in Information and Data Sciences from Caltech, where I also worked on machine learning research in Professor Yisong Yue's group. | ![](resources/picture-circ.jpg) |
+| I am a second year PhD student in the CS Department at Cornell, advised by Chris De Sa. My research focuses on geometrically motivated methods toward efficient deep models, such as transformers. Previously, I worked on autonomous last-mile delivery vehicles as a ML Engineer on the ML Research team at Nuro. I recieved my BS in Computer Science with a minor in Information and Data Sciences from Caltech, where I also worked on machine learning research in Professor Yisong Yue's group. | ![](resources/picture-circ.jpg) |
 
 
 ## Research
