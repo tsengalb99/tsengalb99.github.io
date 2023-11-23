@@ -1,11 +1,11 @@
 ---
 mainfont: monospace
-fontsize: 12pt
+fontsize: 14pt
 title: Albert Tseng
 ---
 
 <style>
-body { max-width: 800px !important; }
+body { max-width: 850px !important; }
 tbody {
     border-top: none;
     border-bottom: none;
@@ -18,12 +18,19 @@ header { height:0px;}
 </center>
 \
 
+<div style="text-align: justify">
 | | |
-|:-------|--:|
-| I am a second year PhD student in the CS Department at Cornell, advised by Chris De Sa. My research focuses on geometrically motivated methods toward efficient deep models, such as transformers. Previously, I worked on autonomous last-mile delivery vehicles as a ML Engineer on the ML Research team at Nuro. I recieved my BS in Computer Science with a minor in Information and Data Sciences from Caltech, where I also worked on machine learning research in Yisong Yue's group. | ![](resources/picture-circ.jpg) |
+|------|--|
+| I am a second year PhD student in the CS Department at Cornell advised by Chris De Sa. My research focuses on geometrically motivated methods toward efficient machine learning. Previously, I worked on autonomous last-mile delivery vehicles as a ML Engineer on the ML Research team at Nuro. I recieved my BS in Computer Science with a minor in Information and Data Sciences from Caltech, where I also worked on machine learning research in Yisong Yue's group. | ![](resources/picture-circ.jpg) |
+</div>
 
 
 ## Research
+
+- QuIP#: QuIP with Lattice Codebooks <span style="color: blue"> $\leftarrow$ State of the art 2 bit LLMS! </span>   
+  **Albert Tseng***, Jerry Chee*, Qingyao Sun, Christopher De Sa.  
+  [[Website]](https://github.com/Cornell-RelaxML/quip-sharp/tree/main) [[Code]](https://github.com/Cornell-RelaxML/quip-sharp/tree/main)   
+
 
 - Coneheads: Hierarchy Aware Attention.  
   **Albert Tseng**, Tao Yu, Toni J.B. Liu, Christopher De Sa.  
@@ -44,4 +51,4 @@ header { height:0px;}
 
 \
 \
-Last updated September 2023.
+Last updated November 2023.
