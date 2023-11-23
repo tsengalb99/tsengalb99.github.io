@@ -29,7 +29,7 @@ header { height:0px;}
 
 - QuIP#: QuIP with Lattice Codebooks <span style="color: blue"> $\leftarrow$ State of the art 2 bit LLMS! </span>   
   **Albert Tseng\***, Jerry Chee\*, Qingyao Sun, Christopher De Sa.  
-  [[Website]](https://github.com/Cornell-RelaxML/quip-sharp/tree/main) [[Code]](https://github.com/Cornell-RelaxML/quip-sharp/tree/main)   
+  [[Website]](https://cornell-relaxml.github.io/quip-sharp/) [[Code]](https://github.com/Cornell-RelaxML/quip-sharp/tree/main)   
 
 
 - Coneheads: Hierarchy Aware Attention.  
