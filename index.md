@@ -28,7 +28,7 @@ header { height:0px;}
 ## Research
 
 - QuIP#: QuIP with Lattice Codebooks <span style="color: blue"> $\leftarrow$ State of the art 2 bit LLMS! </span>   
-  **Albert Tseng***, Jerry Chee*, Qingyao Sun, Christopher De Sa.  
+  **Albert Tseng\***, Jerry Chee\*, Qingyao Sun, Christopher De Sa.  
   [[Website]](https://github.com/Cornell-RelaxML/quip-sharp/tree/main) [[Code]](https://github.com/Cornell-RelaxML/quip-sharp/tree/main)   
 
 
