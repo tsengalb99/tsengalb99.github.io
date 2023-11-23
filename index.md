@@ -1,11 +1,11 @@
 ---
 mainfont: monospace
-fontsize: 14pt
+fontsize: 12pt
 title: Albert Tseng
 ---
 
 <style>
-body { max-width: 850px !important; }
+body { max-width: 750px !important; }
 tbody {
     border-top: none;
     border-bottom: none;
