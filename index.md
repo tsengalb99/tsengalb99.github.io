@@ -27,17 +27,17 @@ header { height:0px;}
 
 ## Research
 
-- QuIP#: QuIP with Lattice Codebooks <span style="color: blue"> $\leftarrow$ State of the art 2 bit LLMS! </span>   
+- QuIP#: Quantization with Incoherence Processing and Lattice Codebooks  
   **Albert Tseng\***, Jerry Chee\*, Qingyao Sun, Christopher De Sa.  
   [[Website]](https://cornell-relaxml.github.io/quip-sharp/) [[Code]](https://github.com/Cornell-RelaxML/quip-sharp/tree/main)   
 
+- Shadow Cones: A Generalized Framework for Partial Order Embeddings  
+  Tao Yu\*, Toni J.B. Liu\*, **Albert Tseng**, Christopher De Sa.  
+  *International Conference on Learning Representations (ICLR)*, May 2024.  
 
 - Coneheads: Hierarchy Aware Attention.  
   **Albert Tseng**, Tao Yu, Toni J.B. Liu, Christopher De Sa.  
-  *Advances in Neural Information Processing Systems (NeurIPS)*, December 2023.
-  
-- Shadow Cones: Unveiling Partial Orders in Hyperbolic Space.  
-  Tao Yu\*, Toni J.B. Liu\*, **Albert Tseng**, Christopher De Sa.
+  *Advances in Neural Information Processing Systems (NeurIPS)*, December 2023.  
   
 - Automatic Synthesis of Diverse Weak Supervision Sources for Behavior Analysis.  
   **Albert Tseng**, Jennifer J. Sun, Yisong Yue.  
@@ -51,4 +51,4 @@ header { height:0px;}
 
 \
 \
-Last updated November 2023.
+Last updated January 2024.
