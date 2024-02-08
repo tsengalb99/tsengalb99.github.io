@@ -27,9 +27,9 @@ header { height:0px;}
 
 ## Research
 
-- QuIP#: Quantization with Incoherence Processing and Lattice Codebooks  
+- QuIP#: Even Better LLM Quantization with Hadamard Incoherence and Lattice Codebooks
   **Albert Tseng\***, Jerry Chee\*, Qingyao Sun, Christopher De Sa.  
-  [[Website]](https://cornell-relaxml.github.io/quip-sharp/) [[Code]](https://github.com/Cornell-RelaxML/quip-sharp/tree/main)   
+  [[arXiv]](https://arxiv.org/abs/2402.04396) [[Website]](https://cornell-relaxml.github.io/quip-sharp/) [[Code]](https://github.com/Cornell-RelaxML/quip-sharp/tree/main)   
 
 - Shadow Cones: A Generalized Framework for Partial Order Embeddings  
   Tao Yu\*, Toni J.B. Liu\*, **Albert Tseng**, Christopher De Sa.  
@@ -51,4 +51,4 @@ header { height:0px;}
 
 \
 \
-Last updated January 2024.
+Last updated February 2024.
