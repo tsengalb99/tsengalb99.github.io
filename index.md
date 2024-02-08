@@ -27,7 +27,7 @@ header { height:0px;}
 
 ## Research
 
-- QuIP#: Even Better LLM Quantization with Hadamard Incoherence and Lattice Codebooks
+- QuIP#: Even Better LLM Quantization with Hadamard Incoherence and Lattice Codebooks  
   **Albert Tseng\***, Jerry Chee\*, Qingyao Sun, Christopher De Sa.  
   [[arXiv]](https://arxiv.org/abs/2402.04396) [[Website]](https://cornell-relaxml.github.io/quip-sharp/) [[Code]](https://github.com/Cornell-RelaxML/quip-sharp/tree/main)   
 
