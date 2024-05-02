@@ -21,7 +21,7 @@ header { height:0px;}
 <div style="text-align: justify">
 | | |
 |------|--|
-| I am a second year PhD student in the CS Department at Cornell advised by Chris De Sa. My research focuses on geometrically motivated methods toward efficient machine learning. Previously, I worked on autonomous last-mile delivery vehicles as a ML Engineer on the ML Research team at Nuro. I recieved my BS in Computer Science with a minor in Information and Data Sciences from Caltech, where I also worked on machine learning research in Yisong Yue's group. | ![](resources/picture-circ.jpg) |
+| I am a second year PhD student in the CS Department at Cornell advised by Chris De Sa. My research focuses on efficient machine learning. Previously, I worked on autonomous last-mile delivery vehicles as a ML Engineer on the ML Research team at Nuro. I recieved my BS in Computer Science with a minor in Information and Data Sciences from Caltech, where I also worked on machine learning research in Yisong Yue's group. | ![](resources/picture-circ.jpg) |
 </div>
 
 
@@ -29,7 +29,7 @@ header { height:0px;}
 
 - QuIP#: Even Better LLM Quantization with Hadamard Incoherence and Lattice Codebooks  
   **Albert Tseng\***, Jerry Chee\*, Qingyao Sun, Volodymyr Kuleshov, Christopher De Sa.  
-  [[arXiv]](https://arxiv.org/abs/2402.04396) [[Website]](https://cornell-relaxml.github.io/quip-sharp/) [[Code]](https://github.com/Cornell-RelaxML/quip-sharp/tree/main)   
+  *International Conference on Machine Learning (ICML)*, July 2024.  
 
 - Shadow Cones: A Generalized Framework for Partial Order Embeddings  
   Tao Yu\*, Toni J.B. Liu\*, **Albert Tseng**, Christopher De Sa.  
@@ -51,4 +51,4 @@ header { height:0px;}
 
 \
 \
-Last updated February 2024.
+Last updated May 2024.
