@@ -23,6 +23,8 @@ header { height:0px;}
 
 - QTIP: Quantization with Trellises and Incoherence Processing  
   **Albert Tseng**, Qingyao Sun, David Hou, Christopher De Sa.  
+  *Advances in Neural Information Processing Systems (NeurIPS)*, December 2024  
+  <span style="color:red">**Spotlight**</span>  
   [[Paper](https://arxiv.org/abs/2406.11235)] [[Code](https://github.com/Cornell-RelaxML/qtip)]
   
 - QuIP#: Even Better LLM Quantization with Hadamard Incoherence and Lattice Codebooks  
