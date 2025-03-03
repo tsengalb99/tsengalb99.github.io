@@ -21,6 +21,11 @@ header { height:0px;}
 
 ### Research
 
+- **Training LLMs with MXFP4**  
+  **Albert Tseng**, Tao Yu, Youngsuk Park  
+  *Artificial Intelligence and Statistics (AISTATS)*, 2025  
+  [[Paper](https://arxiv.org/abs/2502.20586)]
+
 - **QTIP: Quantization with Trellises and Incoherence Processing**   
   **Albert Tseng**, Qingyao Sun, David Hou, Christopher De Sa  
   *Advances in Neural Information Processing Systems (NeurIPS)*, 2024  
@@ -57,4 +62,4 @@ header { height:0px;}
 See [Google Scholar](https://scholar.google.com/citations?hl=en&user=xGo0C5UAAAAJ) for more.
 
 \
-Last updated September 2024.
+Last updated March 2025.

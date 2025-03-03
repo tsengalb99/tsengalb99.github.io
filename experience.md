@@ -23,7 +23,7 @@ header { height:0px;}
 
 - AWS AI: *Applied Scientist Intern*  
   Scale Team, AIRE Organziation  
-  May 2024 -- Present
+  May 2024 -- January 2025
 
 - Cornell: *PhD Student*  
   Advisor: Chris De Sa  
@@ -39,4 +39,4 @@ header { height:0px;}
 See [LinkedIn](https://www.linkedin.com/in/tsengalb/) for more.
 
 \
-Last updated June 2024.
+Last updated March 2025.

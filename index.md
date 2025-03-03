@@ -28,4 +28,4 @@ Before my PhD, I worked on autonomous vehicles at Nuro. I recieved my BS in CS w
 </div>
 
 \
-\ Last updated June 2024.
+\ Last updated March 2025.
