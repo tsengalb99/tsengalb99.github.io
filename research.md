@@ -21,6 +21,10 @@ header { height:0px;}
 
 ### Research
 
+- **Model-Preserving Adaptive Rounding**  
+  **Albert Tseng**, Zhaofeng Sun, Christopher De Sa  
+  [[Paper](https://arxiv.org/pdf/2505.22988)] [[Code](https://github.com/Cornell-RelaxML/yaqa)] 
+
 - **Training LLMs with MXFP4**  
   **Albert Tseng**, Tao Yu, Youngsuk Park  
   *Artificial Intelligence and Statistics (AISTATS)*, 2025  
@@ -30,7 +34,7 @@ header { height:0px;}
   **Albert Tseng**, Qingyao Sun, David Hou, Christopher De Sa  
   *Advances in Neural Information Processing Systems (NeurIPS)*, 2024  
   <span style="color:red">**Spotlight**</span>  
-  [[Paper](https://arxiv.org/abs/2406.11235)] [[Code](https://github.com/Cornell-RelaxML/qtip)]
+  [[Paper](https://arxiv.org/abs/2406.11235)] [[Code](https://github.com/Cornell-RelaxML/qtip)] [[Blog Post](https://www.together.ai/blog/even-better-even-faster-quantized-llms-with-qtip)]
   
 - **QuIP#: Even Better LLM Quantization with Hadamard Incoherence and Lattice Codebooks**  
   **Albert Tseng\***, Jerry Chee\*, Qingyao Sun, Volodymyr Kuleshov, Christopher De Sa  
@@ -62,4 +66,4 @@ header { height:0px;}
 See [Google Scholar](https://scholar.google.com/citations?hl=en&user=xGo0C5UAAAAJ) for more.
 
 \
-Last updated April 2025.
+Last updated May 2025.
