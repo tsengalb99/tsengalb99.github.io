@@ -23,7 +23,7 @@ header { height:0px;}
 
 - **Model-Preserving Adaptive Rounding**  
   **Albert Tseng**, Zhaofeng Sun, Christopher De Sa  
-  [[Paper](https://arxiv.org/pdf/2505.22988)] [[Code](https://github.com/Cornell-RelaxML/yaqa)] 
+  [[Paper](https://arxiv.org/pdf/2505.22988)] [[Code](https://github.com/Cornell-RelaxML/yaqa)] [[Blog](https://www.together.ai/blog/yaqa)]  
 
 - **Training LLMs with MXFP4**  
   **Albert Tseng**, Tao Yu, Youngsuk Park  
