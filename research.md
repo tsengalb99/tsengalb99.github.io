@@ -21,9 +21,13 @@ header { height:0px;}
 
 ### Research
 
+- **L$^3$: Large Lookup Layers**  
+  **Albert Tseng**, Christopher De Sa  
+  [[Paper](https://www.arxiv.org/abs/2601.21461)]
+
 - **Model-Preserving Adaptive Rounding**  
   **Albert Tseng**, Zhaofeng Sun, Christopher De Sa  
-  [[Paper](https://arxiv.org/pdf/2505.22988)] [[Code](https://github.com/Cornell-RelaxML/yaqa)] [[Blog Post](https://www.together.ai/blog/yaqa)]  
+  [[Paper](https://arxiv.org/abs/2505.22988)] [[Code](https://github.com/Cornell-RelaxML/yaqa)] [[Blog Post](https://www.together.ai/blog/yaqa)]  
 
 - **Training LLMs with MXFP4**  
   **Albert Tseng**, Tao Yu, Youngsuk Park  
@@ -66,4 +70,4 @@ header { height:0px;}
 See [Google Scholar](https://scholar.google.com/citations?hl=en&user=xGo0C5UAAAAJ) for more.
 
 \
-Last updated May 2025.
+Last updated January 2026.
